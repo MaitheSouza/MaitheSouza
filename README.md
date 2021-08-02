@@ -15,7 +15,6 @@ I'm a student developer passionate about Front-end from Brazil.
    <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="May-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
    <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> </br>
-
+</div>
 
  ![Snake animation](https://github.com/MaitheSouza/MaitheSouza/blob/output/github-contribution-grid-snake.svg)
