@@ -3,9 +3,7 @@
 <h4 align="center">I'm a student developer passionate about Front-end from Brazil. 😊</h4>
 
 <p align="center">
-- 🔭 I’m currently working on support
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: she/her
+I’m currently working at IBM, learning Angular, Typescript and Spring.
 </p>
 
  ---
@@ -16,7 +14,4 @@
 
 ---
 
-            
- ![Snake animation](https://github.com/MaitheSouza/MaitheSouza/blob/output/github-contribution-grid-snake.svg)
-            
-            
+ 
