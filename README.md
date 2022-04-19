@@ -29,5 +29,6 @@ I’m currently working at IBM, learning Angular, Typescript and Spring.
 ---
    
   <div>
+  <p>Talk to me!</p>
   <a href="https://www.linkedin.com/in/maithe-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
