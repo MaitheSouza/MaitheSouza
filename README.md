@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm Maithê!</h1>
 
-<h4">I'm a student developer passionate about Front-end from Brazil. 😊</h4>
+<h4>I'm a student developer passionate about Front-end from Brazil. 😊</h4>
 
 <p>
 I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs
