@@ -1,21 +1,19 @@
 <h1 align="center">Hi, i'm Maithê!</h1>
 
-<h4>I'm a student developer passionate about Front-end from Brazil. 😊</h4>
+<h4> I'm a student developer passionate about Front-end. 😊 </h4>
 
-<p>
-I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs
-</p>
+<p> I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs </p>
 
  ---
  
  <div align="center">
   <a href="https://github.com/MaitheSouza">
-  <img align="center" alt="May-github" width="3000em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitheSouza&layout=compact&langs_count=7&theme=dark" />
-  <br>
+  <img align="center" alt="May-github" width="3000em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitheSouza&layout=compact&langs_count=7&theme=dark" /> <br>
+ </div>
 
 ---
  
- <div>
+ <div gap="5">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -32,5 +30,7 @@ I currently work at IBM, using Angular and Typescript and I'm studying React and
 ---
    
   <div>
+   <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/maithe-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   
   </div>
