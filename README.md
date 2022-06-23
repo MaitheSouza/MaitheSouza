@@ -1,8 +1,7 @@
-<h1 align="center">Hi, i'm Maithê!</h1>
+<h1 style="align: center">Hi, i'm Maithê!</h1>
 
-<h4> I'm a student developer passionate about Front-end. 😊 </h4>
-
-<p> I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs </p>
+<p style="align: center"> I'm a student developer passionate about Front-end. 😊 </h4> <br>
+<p style="align: center"> I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs </p>
 
  ---
  
@@ -13,7 +12,7 @@
 
 ---
  
- <div gap="5" spacing="3">
+ <div style="gap: 5; display:flex">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -32,5 +31,6 @@
   <div>
    <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/maithe-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/devmayamy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
    
   </div>
