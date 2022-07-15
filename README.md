@@ -1,7 +1,7 @@
-<h1 align="center">Hi, i'm Maithê!</h1>
+<h1 align="center">Hi, i'm Maithê but you can call me May!</h1>
 
 <p> I'm a student developer passionate about Front-end. 😊 </h4> <br>
-<p> I currently work at IBM, using Angular and Typescript and I'm studying React and NextJs </p>
+<p> I currently work at DTI Digital, using React, Typescript, .NET, Azure, Agile Methodologies (SCRUM), GIT. </p>
 
  ---
  
