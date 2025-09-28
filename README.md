@@ -11,7 +11,6 @@
 - I have worked in **national and international companies**, delivering strategic technology solutions.  
 - Currently, I’m working at **Ânima Educação**, where I’m developing an AI-based system to **automate student admission processes**, improving efficiency and reducing manual effort.  
 - Supported **process optimization in 5+ companies**, including Hermes Pardini, Round, Ford, VLI, and Ânima Educação.  
-- Collaborated with **Canadian clients**, improving my English through weekly presentations and project validation.  
 - Experienced in **legacy system decommissioning** and modernization of platforms, enhancing operational efficiency.  
 
 ---
